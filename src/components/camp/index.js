@@ -1,5 +1,5 @@
 import { useContext, } from 'react';
-import CampIcon from './camp-table.png';
+import CampIcon from './Camp-table.png';
 import './style.css';
 import GoodsContext from '../../context/goods.conext'; 
 
